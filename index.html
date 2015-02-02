@@ -217,9 +217,13 @@
     <section class="container text-center">
         <img src="img/footer.png" class="img-responsive center-block">
         <p>We'd love to talk to you about your 2015 recruitment.</p>
-        <div class="col-md-6"><p>Call Tim 07790735809</p></div>
-        <div class="col-md-6"><p>Call Louise 07429189653</p></div>
-        
+        <div class="col-md-6">
+            <p>Call Tim 07790735809</p>
+        </div>
+        <div class="col-md-6">
+            <p>Call Louise 07429189653</p>
+        </div>
+
     </section>
     <div class="container-fluid text-center" id="footer">
         <div class="container">
@@ -260,6 +264,23 @@
         // $('.masthead-video').coverVid(1920, 1080);
         // If not using jQuery (Native Javascript)
         coverVid(document.querySelector('.masthead-video'), 1920, 1080);
+    </script>
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-9768929-21', 'auto');
+        ga('send', 'pageview');
     </script>
 </body>
 
