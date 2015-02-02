@@ -3431,6 +3431,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/craig.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 360099,
+		"inputAbbreviatedPath": "\/img\/craig.png",
+		"outputAbbreviatedPath": "\/img\/craig.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/footer.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3442,13 +3453,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/hilcologo.png": {
+	"\/img\/logo-bottom.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8909,
-		"inputAbbreviatedPath": "\/img\/hilcologo.png",
-		"outputAbbreviatedPath": "\/img\/hilcologo.png",
+		"initialSize": 7079,
+		"inputAbbreviatedPath": "\/img\/logo-bottom.png",
+		"outputAbbreviatedPath": "\/img\/logo-bottom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/louise.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 305215,
+		"inputAbbreviatedPath": "\/img\/louise.png",
+		"outputAbbreviatedPath": "\/img\/louise.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3471,17 +3493,6 @@
 		"initialSize": 13309,
 		"inputAbbreviatedPath": "\/img\/pblue.png",
 		"outputAbbreviatedPath": "\/img\/pblue.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/pentexlogo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5314,
-		"inputAbbreviatedPath": "\/img\/pentexlogo.png",
-		"outputAbbreviatedPath": "\/img\/pentexlogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3515,6 +3526,17 @@
 		"initialSize": 970582,
 		"inputAbbreviatedPath": "\/img\/team.png",
 		"outputAbbreviatedPath": "\/img\/team.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/tim.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273086,
+		"inputAbbreviatedPath": "\/img\/tim.png",
+		"outputAbbreviatedPath": "\/img\/tim.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
