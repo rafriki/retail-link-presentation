@@ -3453,6 +3453,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/hilcologo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9757,
+		"inputAbbreviatedPath": "\/img\/hilcologo.png",
+		"outputAbbreviatedPath": "\/img\/hilcologo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logo-bottom.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3486,24 +3497,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/pblue.png": {
+	"\/img\/pentexlogo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 13309,
-		"inputAbbreviatedPath": "\/img\/pblue.png",
-		"outputAbbreviatedPath": "\/img\/pblue.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/ppurple.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11205,
-		"inputAbbreviatedPath": "\/img\/ppurple.png",
-		"outputAbbreviatedPath": "\/img\/ppurple.png",
+		"initialSize": 7174,
+		"inputAbbreviatedPath": "\/img\/pentexlogo.png",
+		"outputAbbreviatedPath": "\/img\/pentexlogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

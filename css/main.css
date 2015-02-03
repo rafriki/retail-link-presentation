@@ -101,6 +101,9 @@ section {
     .masthead h1 span {
       font-size: 22px; } }
 
+body {
+  background: url("../img/pwhite.png") repeat; }
+
 #retail {
   background: url("../img/pblue.png") repeat;
   color: #082c65; }
@@ -117,7 +120,7 @@ section {
   padding-bottom: 0px; }
 
 #team-body {
-  background: #e2eafb; }
+  background: url("../img/pblue.png") repeat; }
   #team-body .consultant {
     padding-top: 30px; }
     #team-body .consultant a, #team-body .consultant p {
